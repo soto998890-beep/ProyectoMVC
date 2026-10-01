@@ -29,4 +29,4 @@ class ProductoController {
         return $this->producto->eliminar(); 
     } 
 } 
-?>   
+?>
